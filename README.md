@@ -1,0 +1,2 @@
+# Discord_Bard
+Discord上でGoogleのBardを使用するpythonスクリプトです
